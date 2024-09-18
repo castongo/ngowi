@@ -1,0 +1,10 @@
+.tab {display: inline-block;
+    margin-left: 60px;}
+.tabb {display: inline-block;
+  margin-left: 25px;}    
+h1 {color:#ffffff; background-color: blue; text-transform: uppercase;}
+h2 {color:#ffffff; background-color: green; text-transform: uppercase;}
+ol, ul {color:white; text-transform:capitalize; font-size: 23px;}
+a {color:#b3e4e0; text-decoration-line: none; font-size: 23px;}
+p {color:#b3e4e0; font-size: 23px;}
+body {background-color:hwb(252 5% 49%)}
